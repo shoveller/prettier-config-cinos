@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config-cinos",
+  "version": "1.0.0",
+  "description": "prettier settings",
+  "main": "index.js",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "cinos81@gmail.com",
+  "license": "ISC"
+}
